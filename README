@@ -23,4 +23,14 @@ ex.
 <script type="text/javascript" src="/js/jquery.mobile.forpc-0.1.0.js" charset="utf-8"></script>
 <script type="text/javascript" src="/js/jquery.mobile-1.0a3.js" charset="utf-8"></script>
 
-that's all.
+
+2. Customize
+
+2-1.
+You can put jquery.mobile.forpc-0.1.0.js and background-iphone.png in another directry if you rewrite  value of iPhoneImage.PATH to collect path of background-iphone.png.
+
+2-2.
+You can change iPhone image position if you rewrite value of iPhoneImage.POSITION_LEFT
+
+2-3.
+You can chage background design if you add style to ".background-iphone"
