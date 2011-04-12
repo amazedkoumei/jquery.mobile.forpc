@@ -9,7 +9,7 @@
  */
 var iPhoneImage = {
 	// set your iPhone image path
-	PATH : "/core/css/images/background-iphone.png",
+	PATH : "background-iphone.png",
 	// set Integer, how many px far from left side you would like to show iPhone image 
 	// null means centering 
 	POSITION_LEFT : null,
