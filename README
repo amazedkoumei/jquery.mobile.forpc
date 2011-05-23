@@ -8,9 +8,9 @@ jQuery.mobile.forpc works collect on Mozilla or Web-Kit latest version.
 
 0. preparation
 
-You shuld put jquery.mobile.forpc-0.1.0.js and background-iphone.png on web server of your application.
+You shuld put jquery.mobile.forpc-0.1.2.js and background-iphone.png on web server of your application.
 
-If you put theme other directory, rewirite collect path to value of iPhoneImage.PATH written in jquery.mobile.forpc-0.1.0.js
+If you put theme other directory, rewirite collect path to value of iPhoneImage.PATH written in jquery.mobile.forpc-0.1.2.js
 
 
 1. Initialization
@@ -20,14 +20,14 @@ JQuery must be loaded before jQuery.mobile.forpc, and jQuery.mobile must be load
 
 ex.
 <script type="text/javascript" src="/js/jquery-1.5.js" charset="utf-8"></script>
-<script type="text/javascript" src="/js/jquery.mobile.forpc-0.1.0.js" charset="utf-8"></script>
+<script type="text/javascript" src="/js/jquery.mobile.forpc-0.1.2.js" charset="utf-8"></script>
 <script type="text/javascript" src="/js/jquery.mobile-1.0a3.js" charset="utf-8"></script>
 
 
 2. Customize
 
 2-1.
-You can put jquery.mobile.forpc-0.1.0.js and background-iphone.png in another directry if you rewrite  value of iPhoneImage.PATH to collect path of background-iphone.png.
+You can put jquery.mobile.forpc-0.1.2.js and background-iphone.png in another directry if you rewrite  value of iPhoneImage.PATH to collect path of background-iphone.png.
 
 2-2.
 You can change iPhone image position if you rewrite value of iPhoneImage.POSITION_LEFT
